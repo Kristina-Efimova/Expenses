@@ -1,0 +1,28 @@
+.balance {
+    font-size: x-large;
+    float: left;
+    margin-left: 33%;
+}
+
+.currentAccount {
+    font-size: x-large;
+    float: right;
+    margin-right: 33%;
+}
+
+hr {
+    width: 35%;
+    background: green;
+}
+
+.income {
+    font-size: 120%;
+    float: left;
+    margin-left: 38%;
+}
+
+.expenditure {
+    font-size: 120%;
+    float: right;
+    margin-right: 38% ;
+}
